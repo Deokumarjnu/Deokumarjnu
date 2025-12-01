@@ -99,6 +99,11 @@ and automatically performs the entire software engineering lifecycle:
   <img src="https://img.shields.io/badge/Step_Functions-Orchestration-red"/>
   <img src="https://img.shields.io/badge/SQS-Messaging-47A248"/>
   <img src="https://img.shields.io/badge/EventBridge-Event_Driven-ff4b00"/>
+  <img src="https://img.shields.io/badge/IAM-Security-7b3fe4"/>
+  <img src="https://img.shields.io/badge/API_Gateway-API-ff9900"/>
+  <img src="https://img.shields.io/badge/RDS-Database-4db8ff"/>
+  <img src="https://img.shields.io/badge/CloudWatch-Monitoring-1e90ff"/>
+  <img src="https://img.shields.io/badge/CloudFormation-Infrastructure-dd0031"/>
 </p>
 
 ### 🎨 Frontend / Web
